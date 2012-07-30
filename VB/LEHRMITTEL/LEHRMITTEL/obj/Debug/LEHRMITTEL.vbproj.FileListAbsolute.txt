@@ -1,0 +1,22 @@
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\bin\Debug\LEHRMITTEL.exe
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\bin\Debug\LEHRMITTEL.pdb
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\bin\Debug\LEHRMITTEL.xml
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\LEHRMITTEL.frmMain.resources
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\LEHRMITTEL.Resources.resources
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\LEHRMITTEL.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\LEHRMITTEL.exe
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\LEHRMITTEL.xml
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\LEHRMITTEL\obj\Debug\LEHRMITTEL.pdb
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.exe
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.xml
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.pdb
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\bin\Debug\LEHRMITTEL.exe
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\bin\Debug\LEHRMITTEL.pdb
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\bin\Debug\LEHRMITTEL.xml
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\ResolveAssemblyReference.cache
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.frmBit.resources
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.frmMain.resources
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.Resources.resources
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.ucBit.resources
+D:\LEHRMITTEL\VB\LEHRMITTEL\LEHRMITTEL\obj\Debug\LEHRMITTEL.vbproj.GenerateResource.Cache
